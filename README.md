@@ -23,7 +23,3 @@ Created by **Panagiotis Mokos**
 GitHub: [@MwkosP](https://github.com/MwkosP)
 
 ---
-
-**Subject: You have a new Mail:**
-
-Hey darling Godmorning!!!
