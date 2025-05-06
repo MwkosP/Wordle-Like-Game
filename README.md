@@ -6,6 +6,8 @@ You get 3 tries to guess a 3-letter word. Letters turn:
 - 🟩 Green if they're in the correct position  
 - 🟨 Yellow if they're in the word but in the wrong position  
 
+![image](https://github.com/user-attachments/assets/f1f80a06-59e1-41e6-9a29-db679278b7c8)
+
 ---
 
 ## 🎮 Gameplay
